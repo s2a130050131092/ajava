@@ -180,3 +180,88 @@ Write following pages.
     4. Success.jsp (as view)
 
 Role of index.jsp is to take input from user and forward it to LoginServlet Servlet controller, LoginServlet Controller will ask LoginService Class which has a business service named `boolean authenticateUser(String, String)` to validate the user. if userId is "admin" and password is "admin" then application will redirect to success.jsp with welcome `<username>` message, otherwise it will be redirected to login.jsp with an error message "invalid username and password". 
+![5 1](https://cloud.githubusercontent.com/assets/16961604/14279027/6a40cf14-fb48-11e5-86e5-0f759f25e1f2.png)
+![5 2](https://cloud.githubusercontent.com/assets/16961604/14279235/c671e66e-fb49-11e5-930a-dee64a0c815c.png)
+![5 3 1](https://cloud.githubusercontent.com/assets/16961604/14279297/2e0199e6-fb4a-11e5-8e28-70b3cf108aa2.png)
+![5 3 2](https://cloud.githubusercontent.com/assets/16961604/14279298/2e062704-fb4a-11e5-8955-f77b59fed80f.png)
+![5 5 4](https://cloud.githubusercontent.com/assets/16961604/14279396/a1183f34-fb4a-11e5-8f47-5d8108af2de6.png)
+![5 5 5](https://cloud.githubusercontent.com/assets/16961604/14279397/a120b268-fb4a-11e5-9f85-a09380e1290e.png)
+![5 5 6](https://cloud.githubusercontent.com/assets/16961604/14279398/a12e0ec2-fb4a-11e5-8bd5-9171580c2da5.png)
+![5 5 1](https://cloud.githubusercontent.com/assets/16961604/14279399/a12f7a50-fb4a-11e5-8e15-8921145cd58b.png)
+![5 5 2](https://cloud.githubusercontent.com/assets/16961604/14279400/a13cee88-fb4a-11e5-8525-68409c7c15f8.png)
+![5 5 3](https://cloud.githubusercontent.com/assets/16961604/14279401/a1416b0c-fb4a-11e5-8884-f0f17122f6aa.png)
+![5 6 1](https://cloud.githubusercontent.com/assets/16961604/14279475/12026f1c-fb4b-11e5-820a-04edf272fbf1.png)
+![5 6 2](https://cloud.githubusercontent.com/assets/16961604/14279476/120f7df6-fb4b-11e5-9104-c169c87f95ac.png)
+![5 7 2](https://cloud.githubusercontent.com/assets/16961604/14279567/88770d88-fb4b-11e5-9e7d-fcdc0115903e.png)
+![5 7 3](https://cloud.githubusercontent.com/assets/16961604/14279568/887c98fc-fb4b-11e5-9442-595b47e5c38e.png)
+![5 7 1](https://cloud.githubusercontent.com/assets/16961604/14279569/8883a548-fb4b-11e5-936e-275ae8ed9ac6.png)
+![5 8 3](https://cloud.githubusercontent.com/assets/16961604/14279603/c597d436-fb4b-11e5-817f-3b2791e21007.png)
+![5 8 4](https://cloud.githubusercontent.com/assets/16961604/14279601/c597a40c-fb4b-11e5-9696-533117f3aec1.png)
+![5 8 5](https://cloud.githubusercontent.com/assets/16961604/14279602/c597c63a-fb4b-11e5-847b-c89ea0df8020.png)
+![5 8 6](https://cloud.githubusercontent.com/assets/16961604/14279604/c59968f0-fb4b-11e5-8a42-2db232a587b2.png)
+![5 8 7](https://cloud.githubusercontent.com/assets/16961604/14279605/c59a1e3a-fb4b-11e5-986a-1b59ebeefc41.png)
+![5 8 8](https://cloud.githubusercontent.com/assets/16961604/14279606/c59d7076-fb4b-11e5-9ccd-4596b17cfb33.png)
+![5 8 9](https://cloud.githubusercontent.com/assets/16961604/14279608/c5c74d56-fb4b-11e5-9b8b-653523203efd.png)
+![5 8 1](https://cloud.githubusercontent.com/assets/16961604/14279607/c5c72600-fb4b-11e5-8725-a0237b9c90c1.png)
+![5 8 2](https://cloud.githubusercontent.com/assets/16961604/14279633/e4d14756-fb4b-11e5-8ad7-b3645dec95f7.png)
+![5 9 4](https://cloud.githubusercontent.com/assets/16961604/14279675/36647c96-fb4c-11e5-9c28-96e5b1a7ce5d.png)
+![5 9 5](https://cloud.githubusercontent.com/assets/16961604/14279676/3665030a-fb4c-11e5-94f5-9bc2ff067300.png)
+![5 9 6](https://cloud.githubusercontent.com/assets/16961604/14279677/3665c8bc-fb4c-11e5-91ec-152d41ef22d0.png)
+![5 9 7](https://cloud.githubusercontent.com/assets/16961604/14279678/36785fe0-fb4c-11e5-97a5-9876cd6171dc.png)
+![5 9 8](https://cloud.githubusercontent.com/assets/16961604/14279679/367b1bf4-fb4c-11e5-84ab-9f794f44ebf6.png)
+![5 9 9](https://cloud.githubusercontent.com/assets/16961604/14279680/367cef60-fb4c-11e5-9b77-1f4370a508bf.png)
+![5 9 10](https://cloud.githubusercontent.com/assets/16961604/14279681/3691ed3e-fb4c-11e5-9544-11fbd471cec8.png)
+![5 9 11](https://cloud.githubusercontent.com/assets/16961604/14279682/3694abdc-fb4c-11e5-8ea0-cc8e138f800a.png)
+![5 9 12](https://cloud.githubusercontent.com/assets/16961604/14279683/369acad0-fb4c-11e5-84fe-cd52ae5efb80.png)
+![5 9 13](https://cloud.githubusercontent.com/assets/16961604/14279684/36a58d9e-fb4c-11e5-900b-73895e7b018b.png)
+![5 9 14](https://cloud.githubusercontent.com/assets/16961604/14279685/36a94eca-fb4c-11e5-9dff-979b55044a11.png)
+![5 9 1](https://cloud.githubusercontent.com/assets/16961604/14279686/36ab7b96-fb4c-11e5-87ef-137afd0001cf.png)
+![5 9 2](https://cloud.githubusercontent.com/assets/16961604/14279687/36c2d002-fb4c-11e5-9aa4-93642ffac05c.png)
+![5 9 3](https://cloud.githubusercontent.com/assets/16961604/14279688/36c6b6f4-fb4c-11e5-858b-3fd1c1eee13b.png)
+
+![5 10 3](https://cloud.githubusercontent.com/assets/16961604/14279737/97f27b48-fb4c-11e5-8023-7f67c7520ac8.png)
+![5 10 4](https://cloud.githubusercontent.com/assets/16961604/14279738/97f8930c-fb4c-11e5-8cd4-eb994c159b5e.png)
+![5 10 5](https://cloud.githubusercontent.com/assets/16961604/14279739/97ff2d84-fb4c-11e5-8ade-cb8b89910777.png)
+![5 10 6](https://cloud.githubusercontent.com/assets/16961604/14279740/980e7f96-fb4c-11e5-8e42-da1d4d6813ee.png)
+![5 10 1](https://cloud.githubusercontent.com/assets/16961604/14279741/9813f39a-fb4c-11e5-9cc5-bcb0075fa590.png)
+![5 10 2](https://cloud.githubusercontent.com/assets/16961604/14279742/98181d26-fb4c-11e5-9715-e601e7e09e62.png)
+![5 11 1](https://cloud.githubusercontent.com/assets/16961604/14279777/cbf2adc8-fb4c-11e5-9593-ec53a248bfdf.png)
+![5 11 2](https://cloud.githubusercontent.com/assets/16961604/14279778/cbf31128-fb4c-11e5-9a4c-621283fd7688.png)
+![5 11 3](https://cloud.githubusercontent.com/assets/16961604/14279779/cbfc1a98-fb4c-11e5-8d45-adb0678e86c1.png)
+![5 13 10](https://cloud.githubusercontent.com/assets/16961604/14279842/15efd522-fb4d-11e5-8f9e-255bd3059ebc.png)
+![5 13 11](https://cloud.githubusercontent.com/assets/16961604/14279843/15fa2d60-fb4d-11e5-87e1-08139c61c708.png)
+![5 13 12](https://cloud.githubusercontent.com/assets/16961604/14279844/1607c150-fb4d-11e5-920d-4b388cb14741.png)
+![5 13 13](https://cloud.githubusercontent.com/assets/16961604/14279845/16145df2-fb4d-11e5-8836-461a97c5ae62.png)
+![5 13 14](https://cloud.githubusercontent.com/assets/16961604/14279846/16192f9e-fb4d-11e5-8886-ac0717ab1fe2.png)
+![5 13 15](https://cloud.githubusercontent.com/assets/16961604/14279847/161bda8c-fb4d-11e5-9b3f-37e87f3466f7.png)
+![5 13 16](https://cloud.githubusercontent.com/assets/16961604/14279848/162083f2-fb4d-11e5-8638-9d04bd6da97d.png)
+![5 13 1](https://cloud.githubusercontent.com/assets/16961604/14279849/1628e6be-fb4d-11e5-84ef-0784b5f84617.png)
+![5 13 2](https://cloud.githubusercontent.com/assets/16961604/14279850/16351790-fb4d-11e5-893c-b9a6006485cf.png)
+![5 13 3](https://cloud.githubusercontent.com/assets/16961604/14279851/1640830a-fb4d-11e5-9e73-e96ee9ca95bb.png)
+![5 13 4](https://cloud.githubusercontent.com/assets/16961604/14279853/164a12da-fb4d-11e5-98a7-b106a9c661e0.png)
+![5 13 5](https://cloud.githubusercontent.com/assets/16961604/14279852/1649c190-fb4d-11e5-8b5b-729541865a3d.png)
+![5 13 6](https://cloud.githubusercontent.com/assets/16961604/14279854/164c5cca-fb4d-11e5-9004-aa3b7826fec6.png)
+![5 13 7](https://cloud.githubusercontent.com/assets/16961604/14279855/165a2738-fb4d-11e5-892f-c7a1c44a8031.png)
+![5 13 8](https://cloud.githubusercontent.com/assets/16961604/14279856/1662256e-fb4d-11e5-8234-9eb373ac69b5.png)
+![5 13 9](https://cloud.githubusercontent.com/assets/16961604/14279858/166db8fc-fb4d-11e5-92f0-fd7e211f488d.png)
+![5 14 1](https://cloud.githubusercontent.com/assets/16961604/14279927/587d5040-fb4d-11e5-9ae5-03b12584eccb.png)
+![5 15 3](https://cloud.githubusercontent.com/assets/16961604/14279957/86f2a312-fb4d-11e5-9d0b-3703dfe9eb7a.png)
+![5 15 4](https://cloud.githubusercontent.com/assets/16961604/14279958/86fd6a36-fb4d-11e5-8536-acc7ab41a6c2.png)
+![5 15 5](https://cloud.githubusercontent.com/assets/16961604/14279959/8704571a-fb4d-11e5-8a2a-1dc3a47062b4.png)
+![5 15 1](https://cloud.githubusercontent.com/assets/16961604/14279960/8708393e-fb4d-11e5-9f44-c25673197a22.png)
+![5 15 2](https://cloud.githubusercontent.com/assets/16961604/14279961/870d822c-fb4d-11e5-869a-0ec46174a506.png)
+![5 16 1](https://cloud.githubusercontent.com/assets/16961604/14280010/b5b15af4-fb4d-11e5-9581-f12d8c3bf558.png)
+![5 16 2](https://cloud.githubusercontent.com/assets/16961604/14280011/b5b63f10-fb4d-11e5-9366-28ba5770ee61.png)
+
+
+
+
+
+
+
+
+
+
+
+
+

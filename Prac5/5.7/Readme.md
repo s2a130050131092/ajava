@@ -36,5 +36,8 @@ as soon as we will add 11th value then first will be deleted.
 
 ![sample output11](http://www.roseindia.net/jsp/11thadded.gif)
 
+![5 7 2](https://cloud.githubusercontent.com/assets/16961604/14279567/88770d88-fb4b-11e5-9e7d-fcdc0115903e.png)
+![5 7 3](https://cloud.githubusercontent.com/assets/16961604/14279568/887c98fc-fb4b-11e5-9442-595b47e5c38e.png)
+![5 7 1](https://cloud.githubusercontent.com/assets/16961604/14279569/8883a548-fb4b-11e5-936e-275ae8ed9ac6.png)
 
 
